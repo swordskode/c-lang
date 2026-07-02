@@ -2,7 +2,6 @@
 
 int main(void) {
     int number = 42;
-
     int *pointer = &number;
 
     printf("Value of number: %d\n", number);
